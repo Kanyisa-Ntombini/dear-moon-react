@@ -1,3 +1,7 @@
+# Dear Moon
+
+This is my first react ever!. I am attempting to create a web page using react. Hopefully it goes well. The link to the website it https://kanyisa-ntombini.github.io/dear-moon-react/.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
